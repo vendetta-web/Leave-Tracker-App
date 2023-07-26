@@ -1,5 +1,8 @@
 # Salesforce DX Project: Next Steps
 
+<img width="953" alt="image" src="https://github.com/vendetta-web/Leave-Tracker-App/assets/63356157/a171121a-4f1a-49c6-952f-187992355ed3">
+
+
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
 
 ## How Do You Plan to Deploy Your Changes?
